@@ -1,11 +1,18 @@
 # The Gilded Deck
 
-![The Gilded Deck](preview-placeholder.png)  
-*(Preview gallery coming soon after the initial push)*
 
 **Please enjoy these cards** — I worked really hard to create them.
 
-This is a complete 52-card deck plus 4 back color images with a luxurious gilded aesthetic. 
+This is a complete 52-card deck plus 4 card back images with a luxurious gilded aesthetic. 
+
+### Download Instructions
+
+To download all cards:
+
+Click the green Code button at the top of the page, then select Download ZIP.
+
+### Please Leave A Star!
+If you find these images worth the price, please leave a star!
 
 ### Preview
 
