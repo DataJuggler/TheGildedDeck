@@ -8,13 +8,21 @@
 This is a complete 52-card deck plus 4 back color images with a luxurious gilded aesthetic. 
 
 ### Preview
-*(Image grid or embedded gallery will go here)*
 
-**All 56 cards** will be displayed in a clean grid below once the repo is public.
+### Aces
+
+<div align="center">
+
+![Ace of Clubs](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceClubs.png?raw=true =160x224)
+![Ace of Diamonds](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceDiamonds.png?raw=true =160x224)
+![Ace of Hearts](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceHearts.png?raw=true =160x224)
+![Ace of Spades](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceSpades.png?raw=true =160x224)
+
+</div>
 
 ---
 
-## How They Were Made
+## How These Card Images Were Made
 
 Most of the images were generated with **ChatGPT Images 2** in Comfy UI. While the AI produced beautiful base
 artwork, it created inconsistencies across the deck — varying fonts, symbol sizes, and positions.
