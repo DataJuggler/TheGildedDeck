@@ -9,7 +9,7 @@ This is a complete 52-card deck plus 4 card back images with a luxurious gilded 
 
 To download all cards:
 
-Click the green Code button at the top of the page, then select Download ZIP.
+Click the green Code button at the top of this page, then select Download ZIP.
 
 ### Please Leave A Star!
 
