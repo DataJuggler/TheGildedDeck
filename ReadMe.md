@@ -13,13 +13,12 @@ This is a complete 52-card deck plus 4 back color images with a luxurious gilded
 
 <div align="center">
 
-![Ace of Clubs](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceClubs.png?raw=true =160x224)
-![Ace of Diamonds](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceDiamonds.png?raw=true =160x224)
-![Ace of Hearts](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceHearts.png?raw=true =160x224)
-![Ace of Spades](https://github.com/DataJuggler/TheGildedDeck/blob/master/AceSpades.png?raw=true =160x224)
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/AceClubs.png?raw=true" width="160" height="224" alt="Ace of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/AceDiamonds.png?raw=true" width="160" height="224" alt="Ace of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/AceHearts.png?raw=true" width="160" height="224" alt="Ace of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/AceSpades.png?raw=true" width="160" height="224" alt="Ace of Spades"/>
 
 </div>
-
 ---
 
 ## How These Card Images Were Made
