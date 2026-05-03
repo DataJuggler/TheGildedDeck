@@ -12,7 +12,8 @@ To download all cards:
 Click the green Code button at the top of the page, then select Download ZIP.
 
 ### Please Leave A Star!
-If you find these images worth the price, please leave a star!
+
+If you find these images worth the price!
 
 ### Preview
 
