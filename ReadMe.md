@@ -21,74 +21,74 @@ This is a complete 52-card deck plus 4 back color images with a luxurious gilded
 
 ### Twos
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/2Clubs.png?raw=true" width="160" height="224" alt="2 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/2Diamonds.png?raw=true" width="160" height="224" alt="2 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/2Hearts.png?raw=true" width="160" height="224" alt="2 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/2Spades.png?raw=true" width="160" height="224" alt="2 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TwoClubs.png?raw=true" width="160" height="224" alt="2 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TwoDiamonds.png?raw=true" width="160" height="224" alt="2 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TwoHearts.png?raw=true" width="160" height="224" alt="2 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TwoSpades.png?raw=true" width="160" height="224" alt="2 of Spades"/>
 </div>
 
 ### Threes
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/3Clubs.png?raw=true" width="160" height="224" alt="3 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/3Diamonds.png?raw=true" width="160" height="224" alt="3 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/3Hearts.png?raw=true" width="160" height="224" alt="3 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/3Spades.png?raw=true" width="160" height="224" alt="3 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/ThreeClubs.png?raw=true" width="160" height="224" alt="3 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/ThreeDiamonds.png?raw=true" width="160" height="224" alt="3 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/ThreeHearts.png?raw=true" width="160" height="224" alt="3 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/ThreeSpades.png?raw=true" width="160" height="224" alt="3 of Spades"/>
 </div>
 
 ### Fours
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/4Clubs.png?raw=true" width="160" height="224" alt="4 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/4Diamonds.png?raw=true" width="160" height="224" alt="4 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/4Hearts.png?raw=true" width="160" height="224" alt="4 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/4Spades.png?raw=true" width="160" height="224" alt="4 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FourClubs.png?raw=true" width="160" height="224" alt="4 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FourDiamonds.png?raw=true" width="160" height="224" alt="4 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FourHearts.png?raw=true" width="160" height="224" alt="4 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FourSpades.png?raw=true" width="160" height="224" alt="4 of Spades"/>
 </div>
 
 ### Fives
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/5Clubs.png?raw=true" width="160" height="224" alt="5 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/5Diamonds.png?raw=true" width="160" height="224" alt="5 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/5Hearts.png?raw=true" width="160" height="224" alt="5 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/5Spades.png?raw=true" width="160" height="224" alt="5 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FiveClubs.png?raw=true" width="160" height="224" alt="5 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FiveDiamonds.png?raw=true" width="160" height="224" alt="5 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FiveHearts.png?raw=true" width="160" height="224" alt="5 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/FiveSpades.png?raw=true" width="160" height="224" alt="5 of Spades"/>
 </div>
 
 ### Sixes
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/6Clubs.png?raw=true" width="160" height="224" alt="6 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/6Diamonds.png?raw=true" width="160" height="224" alt="6 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/6Hearts.png?raw=true" width="160" height="224" alt="6 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/6Spades.png?raw=true" width="160" height="224" alt="6 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SixClubs.png?raw=true" width="160" height="224" alt="6 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SixDiamonds.png?raw=true" width="160" height="224" alt="6 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SixHearts.png?raw=true" width="160" height="224" alt="6 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SixSpades.png?raw=true" width="160" height="224" alt="6 of Spades"/>
 </div>
 
 ### Sevens
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/7Clubs.png?raw=true" width="160" height="224" alt="7 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/7Diamonds.png?raw=true" width="160" height="224" alt="7 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/7Hearts.png?raw=true" width="160" height="224" alt="7 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/7Spades.png?raw=true" width="160" height="224" alt="7 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SevenClubs.png?raw=true" width="160" height="224" alt="7 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SevenDiamonds.png?raw=true" width="160" height="224" alt="7 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SevenHearts.png?raw=true" width="160" height="224" alt="7 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/SevenSpades.png?raw=true" width="160" height="224" alt="7 of Spades"/>
 </div>
 
 ### Eights
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/8Clubs.png?raw=true" width="160" height="224" alt="8 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/8Diamonds.png?raw=true" width="160" height="224" alt="8 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/8Hearts.png?raw=true" width="160" height="224" alt="8 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/8Spades.png?raw=true" width="160" height="224" alt="8 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/EightClubs.png?raw=true" width="160" height="224" alt="8 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/EightDiamonds.png?raw=true" width="160" height="224" alt="8 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/EightHearts.png?raw=true" width="160" height="224" alt="8 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/EightSpades.png?raw=true" width="160" height="224" alt="8 of Spades"/>
 </div>
 
 ### Nines
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/9Clubs.png?raw=true" width="160" height="224" alt="9 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/9Diamonds.png?raw=true" width="160" height="224" alt="9 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/9Hearts.png?raw=true" width="160" height="224" alt="9 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/9Spades.png?raw=true" width="160" height="224" alt="9 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/NineClubs.png?raw=true" width="160" height="224" alt="9 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/NineDiamonds.png?raw=true" width="160" height="224" alt="9 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/NineHearts.png?raw=true" width="160" height="224" alt="9 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/NineSpades.png?raw=true" width="160" height="224" alt="9 of Spades"/>
 </div>
 
 ### Tens
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/10Clubs.png?raw=true" width="160" height="224" alt="10 of Clubs"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/10Diamonds.png?raw=true" width="160" height="224" alt="10 of Diamonds"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/10Hearts.png?raw=true" width="160" height="224" alt="10 of Hearts"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/10Spades.png?raw=true" width="160" height="224" alt="10 of Spades"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TenClubs.png?raw=true" width="160" height="224" alt="10 of Clubs"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TenDiamonds.png?raw=true" width="160" height="224" alt="10 of Diamonds"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TenHearts.png?raw=true" width="160" height="224" alt="10 of Hearts"/>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/TenSpades.png?raw=true" width="160" height="224" alt="10 of Spades"/>
 </div>
 
 ### Jacks
