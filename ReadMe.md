@@ -16,8 +16,6 @@ Click the green Code button at the top of this page, then select Download ZIP.
 
 If you find these images worth the price!
 
-### Preview
-
 ## Card Previews
 
 ### Aces
