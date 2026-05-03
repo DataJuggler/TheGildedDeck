@@ -4,6 +4,7 @@
 **Please enjoy these cards** — I worked really hard to create them.
 
 This is a complete 52-card deck plus 4 card back images with a luxurious gilded aesthetic. 
+Each card is 400 x 560 and has a 2 px transparent margin on each border.
 
 ### Download Instructions
 
