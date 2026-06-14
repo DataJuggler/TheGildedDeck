@@ -124,24 +124,26 @@ If you find these images worth the price.
 
 ### Card Backs
 
-<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px; margin-bottom: 20px; overflow-x: auto; padding-bottom: 10px;">
-  <div style="display: inline; text-align: center; flex-shrink: 0;">
-    <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/>
-    <p><strong>EmeraldLabyrinth.png</strong></p>
-  </div>
-  <div style="display: inline; text-align: center; flex-shrink: 0;">
-    <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/>
-    <p><strong>VerdantAscension.png</strong></p>
-  </div>
-  <div style="display: inline; text-align: center; flex-shrink: 0;">
-    <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/>
-    <p><strong>CrimsonHelix.png</strong></p>
-  </div>
-  <div style="display: inline; text-align: center; flex-shrink: 0;">
-    <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/>
-    <p><strong>BlueDiamond.png</strong></p>
-  </div>
-</div>
+<table align="center" style="margin-bottom: 20px;">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/><br>
+      <strong>EmeraldLabyrinth.png</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/><br>
+      <strong>VerdantAscension.png</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/><br>
+      <strong>CrimsonHelix.png</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/><br>
+      <strong>BlueDiamond.png</strong>
+    </td>
+  </tr>
+</table>
 
 ### By Request - A Joker Was Created
 
