@@ -124,9 +124,9 @@ If you find these images worth the price.
 
 ### Card Backs
 
-<table align="center" style="margin-bottom: 20px; border: none; border-collapse: collapse; background: transparent; border-spacing: 0;">
+<table align="center" style="margin-bottom: 20px; border: none; outline: none; border-collapse: collapse; background: transparent; border-spacing: 0;">
   <tr>
-    <td align="center" style="border: 1px solid transparent; outline: none; padding: 12px; background: transparent;">
+    <td align="center" style="border: 1px solid transparent; outline: 1px solid transparent; padding: 12px; background: transparent;">
       <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/><br>
       <strong>EmeraldLabyrinth.png</strong>
     </td>
