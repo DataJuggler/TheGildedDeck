@@ -124,20 +124,20 @@ If you find these images worth the price.
 
 ### Card Backs
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <div style="text-align: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px; margin-bottom: 20px; overflow-x: auto; padding-bottom: 10px;">
+  <div style="text-align: center; flex-shrink: 0;">
     <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/>
     <p><strong>EmeraldLabyrinth.png</strong></p>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-shrink: 0;">
     <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/>
     <p><strong>VerdantAscension.png</strong></p>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-shrink: 0;">
     <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/>
     <p><strong>CrimsonHelix.png</strong></p>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; flex-shrink: 0;">
     <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/>
     <p><strong>BlueDiamond.png</strong></p>
   </div>
