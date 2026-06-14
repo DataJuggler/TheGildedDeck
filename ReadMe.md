@@ -125,13 +125,25 @@ If you find these images worth the price!
 ### Card Backs
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBackBlue.png?raw=true" width="160" height="224" alt="Blue Back"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBackRed.png?raw=true" width="160" height="224" alt="Red Back"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBack2Blue.png?raw=true" width="160" height="224" alt="Blue Back 2"/>
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBack2Red.png?raw=true" width="160" height="224" alt="Red Back 2"/>
+  <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/>
+  <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/>
+  <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/>
+  <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/>
+</div>
+
+### By Request - A Joker Was Created
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
+  <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/Jokers/Joker.png?raw=true" width="160" height="224" alt="Joker"/>
 </div>
 
 ---
+
+# Major Update 6.14.2026 - Card Backs and Face Cards Were Updated Plus A New Joker
+
+I didn't like the first vversion of Face Guards. It was a gold background with gold uniforms and looked kind of drab.
+I think the new cards look better with a light blue background. I also fixed the King of Diamonds had 5 fingers I didn't notice.
+A Joker was added after a request.
 
 ## How These Card Images Were Made
 
@@ -148,7 +160,7 @@ To bring everything together into a cohesive style, I used my own tools:
 ** Claude ** also helped with some graphics programming help. Most of the credit goes to
 ** CHatGPT Images 2 ** in ** Comfy UI **
 
-I spent about **$10 on Comfy UI credits** to generate high-quality face cards and card backs.
+I spent over **$10 on Comfy UI credits** to generate high-quality face cards and card backs.
 
 ---
 
