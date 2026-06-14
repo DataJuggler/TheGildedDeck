@@ -123,27 +123,18 @@ If you find these images worth the price.
 </div>
 
 ### Card Backs
-
-<table align="center" style="margin-bottom: 20px; border: none !important; border-collapse: collapse !important; background: transparent;">
-  <tr>
-    <td align="center" style="border: none !important; outline: none !important; padding: 12px; background: transparent;">
-      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/><br>
-      <strong>EmeraldLabyrinth.png</strong>
-    </td>
-    <td align="center" style="border: none !important; outline: none !important; padding: 12px; background: transparent;">
-      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/><br>
-      <strong>VerdantAscension.png</strong>
-    </td>
-    <td align="center" style="border: none !important; outline: none !important; padding: 12px; background: transparent;">
-      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/><br>
-      <strong>CrimsonHelix.png</strong>
-    </td>
-    <td align="center" style="border: none !important; outline: none !important; padding: 12px; background: transparent;">
-      <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/><br>
-      <strong>BlueDiamond.png</strong>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/><br>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/><br>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/><br>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/><br>
+</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
+ <strong>EmeraldLabyrinth.png</strong>
+ <strong>VerdantAscension.png</strong>
+  <strong>CrimsonHelix.png</strong>
+  <strong>BlueDiamond.png</strong>
+</div>
 
 ### By Request - A Joker Was Created
 
