@@ -124,7 +124,7 @@ If you find these images worth the price.
 
 ### Card Backs
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 20px;">
-<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CardBacksPreview.png?raw=true" width="760" height="280" alt="Emerald Labyrinth"/><br>
+<img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CardBacksPreview.png?raw=true" width="740" height="280" alt="Emerald Labyrinth"/><br>
 </div>
 
 ### By Request - A Joker Was Created
