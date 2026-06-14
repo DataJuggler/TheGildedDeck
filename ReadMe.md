@@ -124,21 +124,21 @@ If you find these images worth the price.
 
 ### Card Backs
 
-<table align="center" style="margin-bottom: 20px;">
+<table align="center" style="margin-bottom: 20px; border: none; border-collapse: collapse; background: transparent;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/EmeraldLabyrinth.png?raw=true" width="160" height="224" alt="Emerald Labyrinth"/><br>
       <strong>EmeraldLabyrinth.png</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/VerdantAscension.png?raw=true" width="160" height="224" alt="Verdant Ascension"/><br>
       <strong>VerdantAscension.png</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/CrimsonHelix.png?raw=true" width="160" height="224" alt="Crimson Helix"/><br>
       <strong>CrimsonHelix.png</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <img src="https://github.com/DataJuggler/TheGildedDeck/blob/master/CardBacks/BlueDiamond.png?raw=true" width="160" height="224" alt="Blue Diamond"/><br>
       <strong>BlueDiamond.png</strong>
     </td>
