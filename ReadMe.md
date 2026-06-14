@@ -14,7 +14,7 @@ Click the green Code button at the top of this page, then select Download ZIP.
 
 ### Please Leave A Star!
 
-If you find these images worth the price!
+If you find these images worth the price.
 
 ## Card Previews
 
